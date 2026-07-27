@@ -1,0 +1,4 @@
+# Le script scripts/generate_data.py n'utilise que la bibliothèque standard de Python 3
+# (csv, os, random, datetime, collections) — aucune dépendance externe à installer.
+#
+# Python 3.8+ recommandé.

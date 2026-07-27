@@ -1,0 +1,41 @@
+MenuItemID,NomPlat,Categorie,PrixMenu,CoutMatiereUnitaire,MargeUnitaire
+1,Soupe du jour,Entrees,7.5,1.8,5.7
+2,Salade Maison,Entrees,11.0,3.3,7.7
+3,Salade de chevre chaud,Entrees,13.5,4.46,9.04
+4,Bruschetta tomates,Entrees,9.5,2.66,6.84
+5,Assiette de charcuterie,Entrees,15.0,5.7,9.3
+6,Croquettes de fromage,Entrees,10.5,3.25,7.25
+7,Tartare de saumon,Entrees,16.5,6.6,9.9
+8,Foie gras maison,Entrees,21.0,9.45,11.55
+9,Burger Maison,Plats,18.5,6.29,12.21
+10,Entrecote grillee,Plats,29.0,12.18,16.82
+11,Filet de saumon,Plats,26.0,10.4,15.6
+12,Risotto aux champignons,Plats,21.0,5.88,15.12
+13,Pates carbonara,Plats,17.5,4.55,12.95
+14,Magret de canard,Plats,27.5,11.27,16.23
+15,Poulet roti & frites,Plats,19.5,6.24,13.26
+16,Curry de legumes,Plats,18.0,4.5,13.5
+17,Fish & chips,Plats,20.0,7.2,12.8
+18,Cassoulet maison,Plats,22.5,7.87,14.63
+19,Pizza Regina,Plats,16.0,4.32,11.68
+20,Lasagnes bolognaise,Plats,18.0,5.4,12.6
+21,Frites maison,Accompagnements,5.5,1.21,4.29
+22,Legumes de saison,Accompagnements,6.0,1.68,4.32
+23,Gratin dauphinois,Accompagnements,6.5,1.69,4.81
+24,Salade verte,Accompagnements,4.5,0.9,3.6
+25,Creme brulee,Desserts,8.5,1.87,6.63
+26,Fondant au chocolat,Desserts,9.0,2.34,6.66
+27,Tarte Tatin,Desserts,8.5,2.12,6.38
+28,Tiramisu,Desserts,8.0,1.92,6.08
+29,Cheesecake,Desserts,8.5,2.29,6.21
+30,Assiette de fromages,Desserts,11.0,4.4,6.6
+31,Cafe gourmand,Desserts,9.5,2.19,7.31
+32,Glace 2 boules,Desserts,6.0,1.68,4.32
+33,Verre de vin rouge,Boissons,6.5,1.3,5.2
+34,Verre de vin blanc,Boissons,6.5,1.3,5.2
+35,Biere pression,Boissons,6.0,1.08,4.92
+36,Cocktail maison,Boissons,11.0,2.42,8.58
+37,Eau minerale,Boissons,4.0,0.48,3.52
+38,Soda,Boissons,4.5,0.67,3.83
+39,Cafe / The,Boissons,3.0,0.3,2.7
+40,Jus de fruits frais,Boissons,5.5,1.65,3.85
