@@ -18,7 +18,7 @@ Données **fictives mais réalistes** (~80 000 lignes de ventes sur 12 mois, ≈
 
 | Vue d'ensemble | Finance & Rentabilité | Menu Engineering |
 |:---:|:---:|:---:|
-| ![Vue d'ensemble](assets/screenshots/01-vue-ensemble.pdf) | ![Finance](assets/screenshots/02-finance.pdf) | ![Menu](assets/screenshots/03-menu-engineering.pdf) |
+| ![Vue d'ensemble](assets/screenshots/01-vue-ensemble.png) | ![Finance](assets/screenshots/02-finance.png) | ![Menu](assets/screenshots/03-menu-engineering.png) |
 
 
 ---
